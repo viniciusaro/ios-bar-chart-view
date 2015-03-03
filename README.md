@@ -35,3 +35,11 @@ MCBarChartView *barChart = [[MCBarChartView alloc] initWithFrame:frame];
 
 ## Credits
 Brought to you by [MyAppControls](http://www.binpress.com/profile/myappcontrols/30934) team.
+
+## Similar Projects
+
+[iOS Circular Progress Bar](https://github.com/vinicius-a-ro/ios-circular-progress-bar)
+
+[iOS Simple Color Picker](https://github.com/vinicius-a-ro/ios-color-picker)
+
+[iOS Pie Chart](https://github.com/vinicius-a-ro/ios-pie-chart-view)
