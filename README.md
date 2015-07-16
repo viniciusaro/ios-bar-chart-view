@@ -1,5 +1,5 @@
 # iOS Bar Chart View
-The iOS Bar Chart is a great tool to represent data in an elegant and simple way. The default appearance conforms to the beautiful design, It has built in animation features for presenting, inserting, deleting and updating actions and it is fully customisable, being able to change colors, label text, font, all through properties attributes and delegate methods. The content is managed by a data source object following the built in Apple controls standards. 
+The iOS Bar Chart is a great tool to represent data in an elegant and simple way. The default appearance has a beautiful flat design, It has built in animation features for presenting, inserting, deleting and updating actions and it is fully customisable, being able to change colors, label text, font, all through properties attributes and delegate methods. The content is managed by a data source object following the built in Apple controls standards. 
 
 Demo video: https://www.youtube.com/watch?v=eWJi99ZGcgs
 
